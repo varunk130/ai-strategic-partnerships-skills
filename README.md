@@ -80,6 +80,15 @@ Each example follows one synthetic company through a skill, showing the input an
 - [Partnership thesis: Kestrel AI and an enterprise workflow platform](examples/partnership-thesis-kestrel-ai.md)
 - [Deal structure: Northwind Data embedding a model provider's API](examples/deal-structure-northwind-data.md)
 - [Agentic trust agreement: a procurement agent acting in a supplier portal](examples/agentic-trust-agreement-procurement.md)
+- [Ecosystem landscape map: where Kestrel AI must be reachable](examples/ecosystem-landscape-map-kestrel-ai.md)
+- [Agent ecosystem distribution: Kestrel AI's MCP server and listings](examples/agent-ecosystem-distribution-kestrel-ai.md)
+- [Cloud marketplace GTM: Northwind Data's first marketplace listings](examples/cloud-marketplace-gtm-northwind-data.md)
+- [Partner due diligence: Northwind Data vetting Halcyon Cloud](examples/partner-due-diligence-halcyon-cloud.md)
+- [Partnership business case: approving the Halcyon OEM deal](examples/partnership-business-case-northwind-data.md)
+- [Negotiation prep: countering Halcyon's revenue-share proposal](examples/negotiation-prep-halcyon-cloud.md)
+- [Term sheet: Northwind Data and Halcyon Cloud](examples/term-sheet-builder-halcyon-cloud.md)
+- [Partner exec briefing: CEO meeting with Halcyon](examples/partner-exec-briefing-halcyon-cloud.md)
+- [Partnership renewal review: Ardent Procurement and Northwind Supply](examples/partnership-renewal-review-ardent.md)
 
 ## Documentation
 
