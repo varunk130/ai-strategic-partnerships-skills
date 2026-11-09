@@ -14,7 +14,7 @@ Skill: [deal-structure-designer](../skills/deal-structure-designer/SKILL.md). Al
 **Recommendation:** OEM embed with a per-customer wholesale fee of $22K, a 12-month ramp to a
 minimum commit of 40 customers, and exclusivity limited to the top 50 financial-services
 accounts, conditional on hitting the commit.
-**Fallback:** revenue share at 55/45 in their favor with a $20K per-customer floor, if Halcyon
+**Fallback:** revenue share at 50/50 with a $16K per-customer floor, if Halcyon
 will not accept a minimum commit.
 
 ### Structures compared
@@ -22,7 +22,7 @@ will not accept a minimum commit.
 |-----------|----------|------------|------|--------|---------|-----------|---------|
 | Their proposal: 70/30 share + 3-yr exclusivity | Low | High | High | Low | High | Weak | Reject as-is |
 | Referral fee (15%) | Medium | Low | Low | Low | None | Weak | Too small for them |
-| Revenue share 55/45 + floor | Medium | Medium | Medium | Medium | Medium | Medium | Fallback |
+| Revenue share 50/50 + floor | Medium | Medium | Medium | Medium | Medium | Medium | Fallback |
 | OEM wholesale + min commit | Medium-high | High | Medium | Medium | Medium | Strong | Recommended |
 
 ### Two-sided economics (annual, per year one volume)
@@ -40,7 +40,8 @@ will not accept a minimum commit.
 - Payout on bookings: their draft pays our share on bookings, not cash collected. Fix: pay on
   cash collected, monthly.
 - Pass-through with no floor: a pure share lets discounting push our per-customer take below
-  serving cost. Fix: $20K floor in the fallback structure.
+  serving cost. Fix: $16K floor in the fallback structure, which pays $20K at list and only binds
+  when Halcyon discounts more than 20%.
 
 ### Open questions for the partner
 - What discount authority do Halcyon sellers have on the analytics suite?
