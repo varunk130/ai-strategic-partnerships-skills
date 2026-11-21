@@ -1,0 +1,38 @@
+name: New skill proposal
+description: Propose a skill that covers a partnership or BD task the library misses.
+labels: [new-skill]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Proposed skill name (kebab-case)
+      placeholder: co-marketing-plan-builder
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Deal stage
+      options:
+        - Strategy
+        - Distribution
+        - Diligence
+        - Deal design
+        - Negotiation
+        - Trust
+        - Renewal
+        - Other (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: produces
+    attributes:
+      label: What the skill produces
+      description: The concrete deliverable a BD lead could hand to an exec or a partner.
+    validations:
+      required: true
+  - type: textarea
+    id: overlap
+    attributes:
+      label: Overlap with existing skills
+      description: Which existing skills come closest, and why they are not enough.
