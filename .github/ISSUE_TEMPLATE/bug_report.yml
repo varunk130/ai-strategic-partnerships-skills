@@ -1,0 +1,46 @@
+name: Skill bug report
+description: A skill gives wrong guidance, fails to trigger, or produces broken output.
+labels: [bug]
+body:
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Skill
+      options:
+        - partnership-thesis
+        - ecosystem-landscape-map
+        - agent-ecosystem-distribution
+        - cloud-marketplace-gtm
+        - partner-due-diligence
+        - deal-structure-designer
+        - partnership-business-case
+        - negotiation-prep
+        - term-sheet-builder
+        - partner-exec-briefing
+        - agentic-trust-agreement
+        - partnership-renewal-review
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: What you asked Claude
+      description: The prompt or slash command you used. Use synthetic company names.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What went wrong
+      description: Wrong math, missing clause, skill not selected, malformed output, and so on.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected instead
+  - type: input
+    id: version
+    attributes:
+      label: Claude Code version
+      placeholder: Output of `claude --version`
