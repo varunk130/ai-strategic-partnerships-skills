@@ -7,7 +7,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 ## [Unreleased]
 
 ### Added
-- `SECURITY.md`, `CODE_OF_CONDUCT.md`, CODEOWNERS, issue and pull request templates, and Dependabot for GitHub Actions.
+- `SECURITY.md`, `CODE_OF_CONDUCT.md`, CODEOWNERS, issue and pull request templates.
 - Worked examples for the remaining nine skills, so every skill now has one. The Northwind Data and Halcyon Cloud examples follow one deal from due diligence through business case, negotiation, term sheet, and exec briefing.
 
 ### Fixed
