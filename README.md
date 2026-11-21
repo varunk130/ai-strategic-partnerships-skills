@@ -96,6 +96,8 @@ Each example follows one synthetic company through a skill, showing the input an
 - [Partnership lifecycle](docs/partnership-lifecycle.md): which skill to use at each stage of a deal
 - [Skill template](docs/SKILL_TEMPLATE.md): the format every skill follows
 - [Contributing](CONTRIBUTING.md)
+- [Code of conduct](CODE_OF_CONDUCT.md)
+- [Security policy](SECURITY.md)
 - [Changelog](CHANGELOG.md)
 
 ## Related work
